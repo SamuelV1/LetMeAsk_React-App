@@ -11,12 +11,6 @@ basta criar uma sala usando sua conta no Google e compartilhar o código da sala
 
  *simples né : ) ?*
 
-(para ir ao de Admin Side basta ir a:
-"react-test-ask.web.app/admin/rooms/**codigo da sua sala**/
-mas não se preocupe o app sempre procura pelo id para verificar que so o criador da sala chegue la)
-
-
-
 Caso queira rodar localmente e testar/adicionar novas funcionalidades basta:
 
 ```git
