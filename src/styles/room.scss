@@ -104,6 +104,11 @@
         .question-list{
             margin-top: 32px;
         }
+        .noquestions{
+            color: grey;
+            display: flex;
+            justify-content: space-around;
+        }
     }
 }
 

@@ -122,8 +122,10 @@ export function AdminRoom() {
                                 </button>
                             </Question>
                         )
+
                     })}
                 </div>
+                {questions.length <= 0 && <div className="noquestions"><p>Ainda não há perguntas nesta sala.</p> </div>}
             </main>
 
         </div>
