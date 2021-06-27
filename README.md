@@ -24,7 +24,7 @@ $ git clone <LinkDesteRepositorio/>
 ```
 e então, para npm:
 ```js 
-$npm start  
+$ npm Start  
 ```
 e para yarn:
 ```js
