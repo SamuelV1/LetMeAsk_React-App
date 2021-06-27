@@ -33,7 +33,7 @@ $ yarn Start
 ## Live Server
 O app foi hospedado usando o sistema de hosting da <a href="https://firebase.google.com">firebase</a>  pois desta forma seria algo novo a aprender
 você pode encontrar o liver server deste app  <a href="https://react-test-ask.web.app/"> Aqui</a>
-
+minha sala de teste caso queira testar sem criar uma: -Md9T1Q80AvfX_kik7D5
 ## Criação: 
 
 o app foi feito na <a href="https://nextlevelweek.com">NLW week</a>. 
